@@ -1,21 +1,25 @@
-# Smart-Contract-Somnia-
-Test By DYS917
+#Deploy Token Somnia-
+
 #######################################
 
-Step 1 Open Remix IDE
+Step 
 
-1. Visit Remix IDE in your browser.
+1. Visit https://wizard.openzeppelin.com/.
 
-2. Make sure you are in the File Explorer tab, then create a new file with the .sol extension (eg MyContract.sol)
+2. Create token input supply token
 
-3. Copy the Smart Contract Code + Paste
+3. Copy the Smart Contract Code
+4. Got to  https://remix.ethereum.org/
 
-4. Move to the Deploy & Run Transactions tab.
+4. Compile 
 
-5. Select Environment:
+5. Deploy 
+   - Inject Metamask 
+   - Change to Somnia Testnet
+   - Submit Address Metamask
+   - Deploy 
+   - Confrim
+6. See in Somnia Scan
 
-Injected Provider - Metamask → If you want to deploy to the Ethereum testnet/mainnet.
+7. Import Smart Contract in Wallet
 
-6. Click the Deploy button.
-
-7. The contract will appear under the Deployed Contracts section.
